@@ -13,7 +13,12 @@ Original machine is like https://aliexpress.ru/item/1005006562808373.html
 - [z probe](https://aliexpress.ru/item/1005005754638114.html?)
 - [Endstops and other](https://www.thingiverse.com/thing:2796202) printed parts
 
+## Config
 
+- [Laser engraver base config](https://github.com/bdring/fluidnc-config-files/blob/main/official/MKS_DLC32_v21_laser.yaml)
+- Laser engraver final config - TODO
+- CNC config - TODO
+- 
 ## Service
 
 - lythol-24 for axis greasing
