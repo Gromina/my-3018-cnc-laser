@@ -9,6 +9,7 @@ Original machine is like https://aliexpress.ru/item/1005006562808373.html
   - [Schematics](https://github.com/makerbase-mks/MKS-DLC32/blob/main/MKS-DLC32-main/hardware/MKS%20DLC32%20V2.1_003/MKS%20DLC32%20V2.1_003%20PIN.pdf)
   - [Pinout](https://github.com/makerbase-mks/MKS-DLC32/blob/main/MKS-DLC32-main/hardware/MKS%20DLC32%20V2.1_003/MKS%20DLC32%20V2.1_003%20PIN.pdf)
   - [Wiring manual](https://github.com/makerbase-mks/MKS-DLC32/blob/main/MKS-DLC32-main/doc/DLC32%20wiring%20manual.pdf)
+  - [FluidNC wiki on DLC32 board](http://wiki.fluidnc.com/en/hardware/3rd-party/MKS_DLC32)
 - [z probe](https://aliexpress.ru/item/1005005754638114.html?)
 - [Endstops and other](https://www.thingiverse.com/thing:2796202) printed parts
 
