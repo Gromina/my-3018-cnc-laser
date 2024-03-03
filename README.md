@@ -1,8 +1,10 @@
 # my-3018-cnc-laser
 
-Original machine is like https://aliexpress.ru/item/1005006562808373.html
+[Original machine I bought](https://aliexpress.ru/item/1005006562808373.html)
 
-## upgrades
+[Its thingiverse page, buylist, plans](https://www.thingiverse.com/thing:3508781)
+
+## Upgrades
 
 - [Axis handles](https://aliexpress.ru/item/32958606282.html)
 - [Control board](https://aliexpress.ru/item/1005003183498253.html) with [Fluidnc](http://wiki.fluidnc.com/)
@@ -19,7 +21,7 @@ Original machine is like https://aliexpress.ru/item/1005006562808373.html
 - Laser engraver final config - TODO
 - CNC config - TODO
 
-### switching config
+### Switching config
 As of [this instruction](http://wiki.fluidnc.com/en/config/overview)
 one can change current config by sending command
 
