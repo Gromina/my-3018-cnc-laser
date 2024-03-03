@@ -18,7 +18,15 @@ Original machine is like https://aliexpress.ru/item/1005006562808373.html
 - [Laser engraver base config](https://github.com/bdring/fluidnc-config-files/blob/main/official/MKS_DLC32_v21_laser.yaml)
 - Laser engraver final config - TODO
 - CNC config - TODO
-- 
+
+### switching config
+As of [this instruction](http://wiki.fluidnc.com/en/config/overview)
+one can change current config by sending command
+
+```
+$Config/Filename=my_machine.yaml
+```
+
 ## Service
 
 - lythol-24 for axis greasing
