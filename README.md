@@ -13,4 +13,5 @@ Original machine is like https://aliexpress.ru/item/1005006562808373.html
 ## Service
 
 - lythol-24 for axis greasing
+- stepper driver Vref value 0.76V https://www.youtube.com/watch?v=7VHwcEroHPk
 
