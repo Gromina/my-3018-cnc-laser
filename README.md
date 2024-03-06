@@ -20,6 +20,7 @@
 ## Config
 
 - [Laser engraver base config](https://github.com/bdring/fluidnc-config-files/blob/main/official/MKS_DLC32_v21_laser.yaml)
+- [Laser engraver current config](MKS_DLC32_v21_laser.yaml)
 - Laser engraver final config - TODO
 - CNC config - TODO
 
