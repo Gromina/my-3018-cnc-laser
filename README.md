@@ -23,6 +23,7 @@
 - [Laser engraver current config](MKS_DLC32_v21_laser.yaml)
 - Laser engraver final config - TODO
 - CNC config - TODO
+- axis speed 400mm/min ?
 
 ### Switching config
 As of [this instruction](http://wiki.fluidnc.com/en/config/overview)
