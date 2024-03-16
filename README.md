@@ -23,7 +23,8 @@
 - [Laser engraver current config](MKS_DLC32_v21_laser.yaml)
 - Laser engraver final config - TODO
 - CNC config - TODO
-- axis speed 400mm/min ?
+- axis speed 1000mm/min
+- Laser focus distance 45mm
 
 ### Switching config
 As of [this instruction](http://wiki.fluidnc.com/en/config/overview)
@@ -38,4 +39,11 @@ $Config/Filename=my_machine.yaml
 - lythol-24 for axis greasing
 - stepper driver Vref value 0.76V https://www.youtube.com/watch?v=7VHwcEroHPk (Actual value ~1.3Vlower values make low torque)
 - Laser module fan 30mm 12V
+
+## Operation
+
+1. Home
+2. ``G92 X0 Y0 Z0``  # Depends on your working sheet/material
+3. ``G0 X0 Y0 Z23``  # Just check moving
+4. Start program
 
