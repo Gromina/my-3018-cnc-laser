@@ -17,17 +17,17 @@ stepping:
 axes:
   shared_stepper_disable_pin: I2SO.0
   x:
-    steps_per_mm: 806
+    steps_per_mm: 798
     max_rate_mm_per_min: 1000
     acceleration_mm_per_sec2: 600
     max_travel_mm: 895
     soft_limits: false
     homing:
-      cycle: 1
+      cycle: 2
       positive_direction: false
       mpos_mm: 0.000
-      feed_mm_per_min: 200.000
-      seek_mm_per_min: 600.000
+      feed_mm_per_min: 1000.000
+      seek_mm_per_min: 800.000
       settle_ms: 500
       seek_scaler: 1.100
       feed_scaler: 1.100
@@ -41,17 +41,17 @@ axes:
         direction_pin: I2SO.2:high
 
   y:
-    steps_per_mm: 806
+    steps_per_mm: 798
     max_rate_mm_per_min: 1000
     acceleration_mm_per_sec2: 600.00
-    max_travel_mm: 880
+    max_travel_mm: 800
     soft_limits: false
     homing:
-      cycle: 1
-      positive_direction: true
-      mpos_mm: 180
-      feed_mm_per_min: 200.000
-      seek_mm_per_min: 600.000
+      cycle: 3
+      positive_direction: false
+      mpos_mm: -40.0
+      feed_mm_per_min: 400.000
+      seek_mm_per_min: 1000.000
       settle_ms: 500
       seek_scaler: 1.100
       feed_scaler: 1.100
@@ -62,20 +62,21 @@ axes:
       pulloff_mm: 2.000
       stepstick:
         step_pin: I2SO.5
-        direction_pin: I2SO.6:low
+        direction_pin: I2SO.6:high
  
   z:
-    steps_per_mm: 806
+    steps_per_mm: 798
     max_rate_mm_per_min: 1000.000
     acceleration_mm_per_sec2: 500.000
+
     max_travel_mm: 890.000
     soft_limits: false
     homing:
       cycle: 1
       positive_direction: true
-      mpos_mm: 50
-      feed_mm_per_min: 200.000
-      seek_mm_per_min: 500.000
+      mpos_mm: 50.00
+      feed_mm_per_min: 400.000
+      seek_mm_per_min: 1000.000
       settle_ms: 500
       seek_scaler: 1.100
       feed_scaler: 1.100
@@ -87,7 +88,7 @@ axes:
       stepstick:
         step_pin: I2SO.3
         direction_pin: I2SO.4
-        
+
 i2so:
   bck_pin: gpio.16
   data_pin: gpio.21
@@ -131,7 +132,7 @@ coolant:
 #  check_mode_start: true
 
 Laser:
-  pwm_hz: 5000
+  pwm_hz: 7000
   output_pin: gpio.32
   disable_with_s0: false
   s0_with_disable: false
