@@ -41,6 +41,7 @@ $Config/Filename=my_machine.yaml
 - lythol-24 for axis greasing
 - stepper driver Vref value 0.76V https://www.youtube.com/watch?v=7VHwcEroHPk (Actual value ~1.3Vlower values make low torque)
 - Laser module fan 30mm 12V
+- Laser module dimensions 33x33mm
 
 ## Operation
 
