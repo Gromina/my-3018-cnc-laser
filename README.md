@@ -16,6 +16,8 @@
   - [FluidNC wiki on DLC32 board](http://wiki.fluidnc.com/en/hardware/3rd-party/MKS_DLC32)
 - [z probe](https://aliexpress.ru/item/1005005754638114.html?)
 - [Endstops and other](https://www.thingiverse.com/thing:2796202) printed parts
+- [Z carret](https://www.printables.com/model/367235-z-axis-modular-support-cnc-3018)
+- [Laser & Shpindle holder](https://www.printables.com/model/367237-modular-spindle-and-laser-holder-for-cnc3018)
 
 ## Config
 
