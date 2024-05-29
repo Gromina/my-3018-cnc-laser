@@ -50,3 +50,8 @@ $Config/Filename=my_machine.yaml
 3. ``G0 X0 Y0 Z23``  # Just check moving
 4. Start program
 
+## Useful links
+- https://jscut.org/jscut.html#  Cut from SVG online
+- https://grid.space/kiri/ Cut from SVG (complicated)
+- https://ncviewer.com/ GCODE viewer
+
