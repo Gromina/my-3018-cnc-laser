@@ -57,4 +57,5 @@ $Config/Filename=my_machine.yaml
 - https://jscut.org/jscut.html#  Cut from SVG online
 - https://grid.space/kiri/ Cut from SVG (complicated)
 - https://ncviewer.com/ GCODE viewer
+- https://www.topincity.ru/Wood%20parameters.htm Wood milling info
 
