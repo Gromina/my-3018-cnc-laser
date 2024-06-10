@@ -50,6 +50,9 @@ $Config/Filename=my_machine.yaml
 3. ``G0 X0 Y0 Z23``  # Just check moving
 4. Start program
 
+5. $MD - disable motors
+6. $E - error description
+
 ## Useful links
 - https://jscut.org/jscut.html#  Cut from SVG online
 - https://grid.space/kiri/ Cut from SVG (complicated)
