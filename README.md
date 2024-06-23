@@ -52,6 +52,8 @@ $Config/Filename=my_machine.yaml
 
 5. $MD - disable motors
 6. $E - error description
+7. $Alarms/List or $A - list alarms
+8. $X - clear alarm state
 
 ## Useful links
 - https://jscut.org/jscut.html#  Cut from SVG online
