@@ -60,4 +60,5 @@ $Config/Filename=my_machine.yaml
 - https://grid.space/kiri/ Cut from SVG (complicated)
 - https://ncviewer.com/ GCODE viewer
 - https://www.topincity.ru/Wood%20parameters.htm Wood milling info
+- https://www.cutlistoptimizer.com/ Cutting sheets online 
 
